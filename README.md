@@ -40,6 +40,6 @@ git init
 git add .
 git commit -m "initial commit"
 git remote add origin <your-github-repo-url>
-git branch -m main
+git branch -M main
 git push -u origin main
 ``` 
