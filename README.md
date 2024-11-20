@@ -1,5 +1,5 @@
 
-[![ML Pipeline](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml)
+[![Build And Test](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml)
 
 
 ## A5-CICD-Model-Pipeline
