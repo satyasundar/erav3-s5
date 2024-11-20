@@ -1,4 +1,7 @@
 
+[![ML Pipeline](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml)
+
+
 ## A5-CICD-Model-Pipeline
 This is a simple MNIST model using PyTorch to test the accuracy of 95% in one epoch. Also it will setup a CI/CD pipeline in GitHub Actions.
 
