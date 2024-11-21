@@ -1,5 +1,10 @@
 
 [![Build And Test](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s5/actions/workflows/ml-pipeline.yml)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=github-actions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+
 
 
 ## A5-CICD-Model-Pipeline
